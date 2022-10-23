@@ -1,4 +1,4 @@
-# Module Challenge 2
+# Module Challenge 1
 
 ## Description
 This repo is an assignment for UW-Minnesota's Full Stack Bootcamp. I had to take the HTML/CSS provided and switch any HTML elements that I could to semantic HTML elements, and add comments to both the HTML and CSS. 
